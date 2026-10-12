@@ -1,0 +1,44 @@
+{
+  "dataset_name": "curated_url_benchmark.csv",
+  "dataset_source": "Curated Local Lexical Benchmark Dataset (Standard Public Domains + Defanged Synthetic Phishing Lexical Patterns)",
+  "dataset_licence": "CC0-1.0 / MIT (RFC 2606 & RFC 5737 safe test ranges)",
+  "split_method": "GroupShuffleSplit (75% train / 25% held-out test, grouped by registrable_domain; 0 overlapping domains)",
+  "train_sample_size": 225,
+  "evaluation_sample_size": 58,
+  "precision": 0.9667,
+  "recall": 0.9667,
+  "f1_score": 0.9667,
+  "roc_auc": 0.9976,
+  "pr_auc": 0.9978,
+  "confusion_matrix": {
+    "true_negative": 27,
+    "false_positive": 1,
+    "false_negative": 1,
+    "true_positive": 29
+  },
+  "per_class_metrics": {
+    "benign_0": {
+      "precision": 0.9643,
+      "recall": 0.9643,
+      "f1_score": 0.9643,
+      "support": 28.0
+    },
+    "malicious_1": {
+      "precision": 0.9667,
+      "recall": 0.9667,
+      "f1_score": 0.9667,
+      "support": 30.0
+    }
+  },
+  "thresholds": {
+    "suspicious_threshold": 0.35,
+    "malicious_threshold": 0.7
+  },
+  "known_limitations": [
+    "Trained on a curated lexical benchmark (283 valid URLs across 132 registrable domains); performance on this benchmark does not guarantee equivalent precision/recall on novel internet-wide zero-day phishing campaigns.",
+    "Analyses only lexical URL string features; does not inspect live HTML content, JavaScript behavior, DNS age, or TLS certificate chains.",
+    "Compromised legitimate domains hosting malicious pages on clean paths may produce false negatives.",
+    "Legitimate enterprise OAuth or redirect URLs with many parameters and keywords may produce false positives."
+  ],
+  "evaluated_at": "2026-10-12T17:07:24.505085+00:00"
+}

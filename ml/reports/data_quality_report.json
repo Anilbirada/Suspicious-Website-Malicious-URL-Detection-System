@@ -1,0 +1,26 @@
+{
+  "dataset_path": "ml/data/curated_url_benchmark.csv",
+  "audited_at": "2026-10-12T17:07:24.261007+00:00",
+  "total_raw_records": 287,
+  "valid_cleaned_records": 283,
+  "missing_urls": 1,
+  "missing_labels": 0,
+  "invalid_labels": 1,
+  "exact_duplicates_removed": 1,
+  "conflicting_label_urls": 0,
+  "malformed_or_unsupported_urls": 1,
+  "class_distribution": {
+    "benign_0": 174,
+    "malicious_1": 109,
+    "benign_to_malicious_ratio": 1.5963
+  },
+  "unique_registrable_domains": 132,
+  "dataset_provenance": {
+    "source": "Curated Local Lexical Benchmark Dataset (Standard Public Domains + Defanged Synthetic Phishing Lexical Patterns)",
+    "licence": "CC0-1.0 / MIT (RFC 2606 & RFC 5737 safe test ranges)",
+    "collection_limitations": [
+      "Curated local lexical benchmark dataset intended for reproducible pipeline verification and baseline lexical model training.",
+      "Does not represent a live internet-wide threat feed or real-time WHOIS/DNS intelligence."
+    ]
+  }
+}

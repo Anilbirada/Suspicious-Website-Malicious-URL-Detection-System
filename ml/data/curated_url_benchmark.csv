@@ -1,0 +1,288 @@
+url,label,source_id,collected_at,licence_ref
+https://example.com/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://example.com/about,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://example.com/docs/getting-started,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://example.com/pricing,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+http://example.com/contact-us,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://wikipedia.org/wiki/Computer_security,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://wikipedia.org/wiki/URL,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://wikipedia.org/wiki/Phishing,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://wikipedia.org/wiki/Transport_Layer_Security,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://python.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://python.org/downloads/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://python.org/doc/3.12/library/urllib.parse.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://python.org/psf/landing/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://fastapi.tiangolo.com/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://fastapi.tiangolo.com/tutorial/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://fastapi.tiangolo.com/advanced/security/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://fastapi.tiangolo.com/deployment/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://scikit-learn.org/stable/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://scikit-learn.org/stable/modules/calibration.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://scikit-learn.org/stable/user_guide.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://github.com/tiangolo/fastapi,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://github.com/scikit-learn/scikit-learn,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://github.com/pytest-dev/pytest,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://github.com/explore,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://mozilla.org/en-US/firefox/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://mozilla.org/en-US/security/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://mozilla.org/en-US/privacy/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://w3.org/TR/html52/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://w3.org/Protocols/rfc2616/rfc2616.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://w3.org/WAI/standards-guidelines/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ietf.org/rfc/rfc3986.txt,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ietf.org/rfc/rfc5890.txt,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ietf.org/standards/rfcs/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://nist.gov/cyberframework,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://nist.gov/publications,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://nist.gov/itl/csd,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://owasp.org/www-project-top-ten/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://owasp.org/www-community/attacks/Phishing,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://owasp.org/chapters/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://debian.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://debian.org/security/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://debian.org/distrib/packages,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://debian.org/doc/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://kernel.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://kernel.org/category/releases.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://kernel.org/doc/html/latest/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://apache.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://apache.org/licenses/LICENSE-2.0,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://apache.org/foundation/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://postgresql.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://postgresql.org/docs/current/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://postgresql.org/download/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://sqlite.org/index.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://sqlite.org/docs.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://sqlite.org/features.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://react.dev/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://react.dev/learn,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://react.dev/reference/react,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://typescriptlang.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://typescriptlang.org/docs/handbook/intro.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://typescriptlang.org/play,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://vitejs.dev/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://vitejs.dev/guide/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://vitejs.dev/config/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://npmjs.com/package/react,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://npmjs.com/package/typescript,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://npmjs.com/about,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pypi.org/project/fastapi/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pypi.org/project/pydantic/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pypi.org/help/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://arxiv.org/list/cs.CR/recent,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://arxiv.org/abs/2101.00001,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://arxiv.org/help,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://acm.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://acm.org/publications/digital-library,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://acm.org/education,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ieee.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ieee.org/conferences,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ieee.org/publications,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://mit.edu/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://mit.edu/research/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://mit.edu/academics/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://stanford.edu/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://stanford.edu/admission/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://stanford.edu/research/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://berkeley.edu/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://berkeley.edu/academics/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://berkeley.edu/campus-life/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ox.ac.uk/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ox.ac.uk/admissions/undergraduate,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://ox.ac.uk/research,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cam.ac.uk/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cam.ac.uk/research,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cam.ac.uk/colleges-and-departments,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://iisc.ac.in/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://iisc.ac.in/admissions/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://iisc.ac.in/research/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://gov.uk/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://gov.uk/browse/Working,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://gov.uk/government/publications,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://usa.gov/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://usa.gov/agency-index,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://usa.gov/benefits,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://who.int/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://who.int/health-topics,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://who.int/news-room,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://un.org/en/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://un.org/en/about-us,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://un.org/en/global-issues,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cloudflare.com/learning/security/what-is-phishing/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cloudflare.com/dns/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cloudflare.com/trust-hub/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://letsencrypt.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://letsencrypt.org/docs/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://letsencrypt.org/how-it-works/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://readthedocs.io/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://readthedocs.io/projects/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://readthedocs.io/pricing/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://jupyter.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://jupyter.org/install,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://jupyter.org/community,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pandas.pydata.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pandas.pydata.org/docs/user_guide/index.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pandas.pydata.org/community/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://numpy.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://numpy.org/doc/stable/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://numpy.org/learn/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://matplotlib.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://matplotlib.org/stable/gallery/index.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://matplotlib.org/stable/tutorials/index.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://sqlalchemy.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://sqlalchemy.org/library.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://sqlalchemy.org/support.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pydantic.dev/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pydantic.dev/docs/validation/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://pydantic.dev/articles/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://Docker.com/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://Docker.com/products/docker-desktop/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://Docker.com/resources/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://linuxfoundation.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://linuxfoundation.org/projects,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://linuxfoundation.org/research,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cncf.io/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cncf.io/projects/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://cncf.io/blog/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://rust-lang.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://rust-lang.org/learn,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://rust-lang.org/tools,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://golang.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://golang.org/doc/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://golang.org/pkg/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://eclipse.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://eclipse.org/downloads/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://eclipse.org/projects/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://gnu.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://gnu.org/licenses/gpl-3.0.html,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://gnu.org/software/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://creativecommons.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://creativecommons.org/licenses/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://creativecommons.org/about/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://archive.org/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://archive.org/about/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://archive.org/projects/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://docs.python.org/3/search.html?q=urlsplit&check_keywords=yes&area=default,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://github.com/search?q=url+lexical+analysis&type=repositories&s=stars&o=desc,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://en.wikipedia.org/w/index.php?title=Uniform_Resource_Identifier&action=history,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://developer.mozilla.org/en-US/docs/Web/Security/Types_of_attacks?utm_source=mdn&utm_medium=doc,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://portal.stanford.edu/student-services/account-overview/academic-calendar-2026,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://id.atlassian.com/login?continue=https%3A%2F%2Fstart.atlassian.com%2F,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://accounts.google.com/ServiceLogin?hl=en&passive=true,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://auth.sso.enterprise-cloud-portal.org/account/login/verify-session?redirect=%2Fdashboard%2Fbilling&mode=secure,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://id.campus-student-account.edu/signin/password-update/confirm?token=%31%32%33%34&acct=99812,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://sso.login.regional-health-portal.org/verify/account/signin?continue=%2Fpatient%2Fbilling-update,0,curated_benign_complex_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+https://docs-viewer.org/file.html,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://cdn-assets-static.net/app.js,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://mail-archive-node.org/read,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://cloud-share-drive.net/open,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://192.0.2.14/login/verify-account.php?session=981723981723,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://198.51.100.42:8080/secure/banking/update-credentials.html,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://203.0.113.88/wp-admin/includes/wallet-recover-login.php?uid=4412,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://192.0.2.99/signin/confirm-password-reset?token=a8f9d01b2c3e4f,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://198.51.100.115:8443/account/unlock-suspended-billing/index.php,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://203.0.113.19/verify/security-update/login.jsp?redirect=%2Fhome,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://192.0.2.210/bin/confirm-account-credential.sh,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://198.51.100.7/portal/signin-verification-alert.php?id=88312,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://203.0.113.250:9000/secure-login/password-update/auth,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://192.0.2.55/banking/login-confirm-session.htm?user=admin%40test,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://trusted-bank.example.com@malicious-auth-host.xyz/login/verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://accounts.google.com@198.51.100.24/signin/v2/identifier,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://microsoft-secure.com@update-credential-check.top/account/login,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://paypal.com.secure-verify@auth-node-77.click/confirm-billing,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://corporate-portal.org@login-verify-session.work/password/reset,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://support.apple.com@id-unlock-service.xyz/signin/recover,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://chase.com@secure-banking-verification.loan/login.php,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://amazon.com@account-update-billing-alert.buzz/verify/signin,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://login.verify.secure-account.auth-update-portal.xyz/signin/confirm?acct=10928,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://signin.banking.account-unlock.customer-verify-alert.top/update/password.php,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://secure.account.update.billing-confirm-service.click/login/verification,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://verify.password.recover-wallet.crypto-auth-portal.work/unlock/account,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://account-verify.secure-login.banking-update.portal-check.xyz/confirm/signin,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://mail.office.login-secure-update.credential-check.top/auth/verify.php?id=9912,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://idp.sso.verify-account-login.security-alert-node.click/password/update,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://support.billing.suspend-account-unlock.verify-now.xyz/login/confirm,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://wallet.recover.secure-signin-verification.token-auth.work/account/unlock,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://netbanking.confirm.user-credential-update.alert-desk.loan/signin/verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://cloud.admin.password-reset-verify.secure-auth-node99.buzz/login/update,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://portal.payroll.account-verification-required.hr-login-check.xyz/signin,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://xn--pple-43d.com/login/verify-account-id/unlock,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://xn--pypal-4ve.secure-verify-service.xyz/signin/confirm-billing,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://xn--mcrosoft-90a.account-update-portal.top/login/password-reset,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://xn--chse-4na.banking-verify-login.click/account/unlock-session,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://xn--amzon-rqa.billing-confirm-update.work/signin/verify-credential,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://xn--gogle-1ua.secure-login-check.xyz/account/recover-password,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://secure-login-verify-account-update-2026.xyz/auth/signin.php?redirect=%68%74%74%70%3A%2F%2Fevil%2Eexample%2Fconfirm&user=%61%64%6D%69%6E&mode=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://banking-account-unlock-verification-center.top/portal/login/confirm-password?token=%39%38%61%62%63%64&session=update_credential_now_9918273645,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://wallet-recovery-seed-verify-secure-login.click/connect/unlock-wallet?callback=%2F%2F198.51.100.88%2Fsteal&verify=%74%72%75%65&account=suspend,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://update-billing-suspended-account-alert.work/customer/signin/verify?return=%2Faccount%2Fpassword%2Fconfirm%3Fid%3D44918273&step=credential,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://confirm-identity-secure-banking-portal-99.loan/login/verify-update.php?acct=%30%30%31%39%32&auth=%70%61%73%73%77%6F%72%64&unlock=1,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://signin-verification-account-recovery-service.buzz/oauth/login/confirm?client=%61%63%63%6F%75%6E%74&redirect_uri=%68%74%74%70%3A%2F%2F192.0.2.11%2F,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://secure-update-appleid-locks.xyz/verify/login/confirm-billing.php,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://netflix-billing-account-suspend.top/signin/update-payment-method,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://dhl-parcel-delivery-fee-confirm.click/track/login-verify-address,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://usps-redelivery-schedule-update.work/portal/confirm-account-billing,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://irs-tax-refund-verify-identity.loan/gov/signin-credential-confirm,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://steam-community-trade-offer-verify.buzz/login/openid-unlock-account,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://binance-wallet-kyc-verification-alert.xyz/account/login-confirm-seed,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://metamask-vault-decrypt-recover-wallet.top/unlock/verify-password-phrase,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://coinbase-security-device-confirm-login.click/signin/verify-account-2fa,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://outlook-web-app-quota-exceeded-update.work/owa/login-confirm-password,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://onedrive-shared-document-auth-verify.xyz/view/signin-account-credential,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://docusign-secure-envelope-review-login.top/sign/verify-email-password,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://dropbox-file-transfer-secure-signin.click/download/login-verify-account,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://adobe-pdf-cloud-document-unlock-login.work/auth/signin-confirm-credential,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://linkedin-security-notice-verify-account.loan/checkpoint/login-update,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://instagram-copyright-appeal-verify-login.buzz/help/confirm-account-password,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://facebook-business-suite-policy-verify.xyz/security/login-confirm-identity,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://whatsapp-backup-chat-verify-account.top/restore/signin-confirm-pin,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://telegram-web-verify-active-session.click/auth/login-unlock-account,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://discord-nitro-gift-claim-verify-login.work/billing/signin-confirm-token,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://stripe-merchant-payout-suspended-verify.loan/dashboard/login-update-bank,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://shopify-store-compliance-verify-account.buzz/admin/login-confirm-billing,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://intuit-quickbooks-invoice-verify-login.xyz/auth/signin-update-password,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://wells-fargo-online-banking-verify-alert.top/connect/login-unlock-account,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://citibank-card-security-verify-signin.click/banking/login-confirm-pin,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://hsbc-net-security-token-update-login.work/portal/verify-account-credential,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://barclays-ibanking-membership-verify.loan/auth/login-confirm-passcode,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://santander-particulares-acceso-verify.buzz/login/confirm-account-update,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://docs-viewer.org/file.html?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://cdn-assets-static.net/app.js?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://mail-archive-node.org/read?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://cloud-share-drive.net/open?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://192.0.2.14/login/verify-account.php?session=981723981723&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://198.51.100.42:8080/secure/banking/update-credentials.html?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://203.0.113.88/wp-admin/includes/wallet-recover-login.php?uid=4412&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://192.0.2.99/signin/confirm-password-reset?token=a8f9d01b2c3e4f&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://198.51.100.115:8443/account/unlock-suspended-billing/index.php?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://203.0.113.19/verify/security-update/login.jsp?redirect=%2Fhome&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://192.0.2.210/bin/confirm-account-credential.sh?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://198.51.100.7/portal/signin-verification-alert.php?id=88312&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://203.0.113.250:9000/secure-login/password-update/auth?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://192.0.2.55/banking/login-confirm-session.htm?user=admin%40test&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://trusted-bank.example.com@malicious-auth-host.xyz/login/verify?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://accounts.google.com@198.51.100.24/signin/v2/identifier?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://microsoft-secure.com@update-credential-check.top/account/login?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://paypal.com.secure-verify@auth-node-77.click/confirm-billing?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://corporate-portal.org@login-verify-session.work/password/reset?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://support.apple.com@id-unlock-service.xyz/signin/recover?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://chase.com@secure-banking-verification.loan/login.php?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://amazon.com@account-update-billing-alert.buzz/verify/signin?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://login.verify.secure-account.auth-update-portal.xyz/signin/confirm?acct=10928&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://signin.banking.account-unlock.customer-verify-alert.top/update/password.php?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://secure.account.update.billing-confirm-service.click/login/verification?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://verify.password.recover-wallet.crypto-auth-portal.work/unlock/account?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://account-verify.secure-login.banking-update.portal-check.xyz/confirm/signin?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://mail.office.login-secure-update.credential-check.top/auth/verify.php?id=9912&step=2,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://idp.sso.verify-account-login.security-alert-node.click/password/update?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://support.billing.suspend-account-unlock.verify-now.xyz/login/confirm?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://wallet.recover.secure-signin-verification.token-auth.work/account/unlock?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://netbanking.confirm.user-credential-update.alert-desk.loan/signin/verify?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://cloud.admin.password-reset-verify.secure-auth-node99.buzz/login/update?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+http://portal.payroll.account-verification-required.hr-login-check.xyz/signin?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://xn--pple-43d.com/login/verify-account-id/unlock?step=verify,1,synthetic_phishing_lexical_patterns_v1,2026-10-12T00:00:00Z,MIT / Synthetic Defanged Lexical Patterns (RFC 2606 / RFC 5737)
+https://example.com/,0,curated_benign_reference_v1,2026-10-12T00:00:00Z,CC0-1.0 / Public Standard Domains
+,0,quality_audit_fixture,2026-10-12T00:00:00Z,CC0-1.0
+https://example.org/invalid-label-row,99,quality_audit_fixture,2026-10-12T00:00:00Z,CC0-1.0
+ftp://unsupported-scheme.example.org/file.zip,1,quality_audit_fixture,2026-10-12T00:00:00Z,CC0-1.0
