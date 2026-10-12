@@ -27,7 +27,7 @@ class Settings(BaseSettings):
     developer_name: str = Field(default="Anil Biradar")
 
     backend_host: str = Field(default="127.0.0.1")
-    backend_port: int = Field(default=8000)
+    backend_port: int = Field(default=8010)
     cors_origins: str = Field(default="http://localhost:5173,http://127.0.0.1:5173")
 
     max_url_length: int = Field(default=2048, ge=64, le=8192)
